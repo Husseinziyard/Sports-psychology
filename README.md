@@ -97,7 +97,3 @@ sports-psychology-literature-review/
 ```
 
 ---
-
-## 👤 Author
-
-- General Sir John Kotelawala Defence University — Sports Science Department
